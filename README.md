@@ -1,7 +1,7 @@
 ### The World of C++ STL Algorithms.
 
 ![World-Map](https://github.com/manosriram/CPP-World/blob/master/WorldMap.png)
-###### Inspired From CppCon 2018.
+###### Inspired by CppCon 2018 (ft. Jonathan Boccara).
 
 ### Regions: 
 - [Province of Heaps.](https://github.com/manosriram/CPP-World/tree/master/Province-of-Heaps)
